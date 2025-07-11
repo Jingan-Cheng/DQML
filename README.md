@@ -2,7 +2,7 @@
 
 This repository contains the code and resources associated with our paper titled "Distributed Quantum Model Learning for Traffic Density Estimation". Please note that the paper is currently under review for publication.
 
-The code is tested on Ubuntu 22.04 environment (Python3.10, PyTorch1.10.0) with an NVIDIA GeForce RTX 4090.
+The code is tested on Ubuntu 22.04 environment (Python3.8, PyTorch1.13.1) with an NVIDIA GeForce RTX 4090.
 
 ## Contents
 
